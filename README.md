@@ -10,20 +10,19 @@ The e-commerce business is quite popular today. Here, you do not need to take or
 
 ### Solution
 
-* github link: https://github.com/lingabalaji17/SentimentBasedProductRecommendation
+* github link: https://github.com/SaiViswanadhKintali/SentimentBasedProductRecommendation/
 
-* Heroku (Application is Live): https://senti-product-recommendation.herokuapp.com/
+* Heroku (Application is Live): 
 
 ### Built with
 
-* Python 3.9.7
-* scikit-learn 1.0.2
-* xgboost 1.5.1
-* numpy 1.22.0
-* nltk 3.6.7
-* pandas 1.3.5
-* Flask 2.0.2
-* Bootstrap CDN 5.1.3
+* Flask==2.0.2
+* nltk==3.6.7
+* numpy
+* pandas==1.3.5
+* gunicorn==20.1.0
+* scikit-learn
+* xgboost
 
 ### Solution Approach
 
