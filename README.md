@@ -12,15 +12,15 @@ The e-commerce business is quite popular today. Here, you do not need to take or
 
 * github link: https://github.com/SaiViswanadhKintali/SentimentBasedProductRecommendation/
 
-* Heroku (Application is Live): 
+* Heroku (Application is Live): https://product-recommendation-main-5ae9eb77ddc8.herokuapp.com/
 
 ### Built with
 
-* Flask==2.0.2
-* nltk==3.6.7
+* Flask
+* nltk
 * numpy
-* pandas==1.3.5
-* gunicorn==20.1.0
+* pandas
+* gunicorn
 * scikit-learn
 * xgboost
 
